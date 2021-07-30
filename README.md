@@ -4,7 +4,7 @@ JsonDB Dashboard:
 
 JSon DB Mini project to be done:
 
-![image](https://user-images.githubusercontent.com/66173287/127659231-ccfd8d72-3149-4840-9d73-cbf7bfdf8527.png)
+![image](https://user-images.githubusercontent.com/66173287/127660162-b8b1bab6-3f5d-4097-b1d0-bcf877c6e59b.png)
 
 
 JsonDB Table :
